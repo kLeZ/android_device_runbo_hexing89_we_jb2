@@ -1,0 +1,1 @@
+add_lunch_combo cm_hexing89_we_jb2-userdebug
